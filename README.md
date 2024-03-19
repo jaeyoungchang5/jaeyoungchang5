@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # JaeYoung Chang
-I am currently working at Epic Systems in Verona, Wisconsin. I graduated in 2022 with a BS in Computer Science at the University of Notre Dame. My passions & interests include Product Management, Project Management, Technology Privacy, and Youth Philanthrophy. More details on [my personal website](https://jaeyoungchang.me/)
+I am currently working at Epic Systems in Verona, Wisconsin. I graduated in 2022 with a BS in Computer Science at the University of Notre Dame. My passions & interests include Product Management, Project Management, Technology Privacy, and Youth Philanthrophy. More details on [my personal website](https://jaeyoungchang.com/)
 
 ---
 
