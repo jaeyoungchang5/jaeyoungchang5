@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # JaeYoung Chang
-I am currently working at Epic Systems in Verona, Wisconsin. I graduated in 2022 with a BS in Computer Science at the University of Notre Dame. My passions & interests include Product Management, Project Management, Technology Privacy, and Youth Philanthrophy. More details on [my personal website](https://jaeyoungchang.com/)
+I am a lifelong learner, driven software developer, and proud Korean.
+I am a full-stack engineer at Epic Systems, the nation's leader in Healthcare Software. I graduated from the University of Notre Dame in 2022 with a BS in Computer Science and a Minor in Engineering Corporate Practice. 
+
+My greatest passion is people, so let's connect and get to know one another!
 
 ---
 
@@ -43,10 +46,11 @@ I am currently working at Epic Systems in Verona, Wisconsin. I graduated in 2022
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-<!--
+
 ## Activity ⚡️
-[![Jae's github stats](https://github-readme-stats.vercel.app/api?username=jaeyoungchang5&theme=vue&count_private=true&hide=issues,stars&show_icons=true)](https://github.com/jaeyoungchang5)
--->
+[![Jae's github stats](https://github-readme-stats.vercel.app/api?username=jaeyoungchang5&theme=vue&count_private=true&hide=issues,contribs&show=prs_merged&show_icons=true)](https://github.com/jaeyoungchang5)
+<!-- Reference https://github.com/anuraghazra/github-readme-stats -->
+
 ## Connect With Me 🍎
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaeyoungchang5@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaeyoungchang5/)
