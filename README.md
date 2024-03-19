@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 I am a lifelong learner, driven software developer, and proud Korean.
 I am a full-stack engineer at Epic Systems, the nation's leader in Healthcare Software. I graduated from the University of Notre Dame in 2022 with a BS in Computer Science and a Minor in Engineering Corporate Practice. 
 
-My greatest passion is people, so let's connect and get to know one another!
+My greatest passion is people, so let's connect and get to know one another! 🍎
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaeyoungchang5@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaeyoungchang5/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jaeyoungchang5)
 
 ---
 
@@ -50,8 +54,3 @@ My greatest passion is people, so let's connect and get to know one another!
 ## Activity ⚡️
 [![Jae's github stats](https://github-readme-stats.vercel.app/api?username=jaeyoungchang5&theme=vue&count_private=true&hide=issues,contribs&show=prs_merged&show_icons=true)](https://github.com/jaeyoungchang5)
 <!-- Reference https://github.com/anuraghazra/github-readme-stats -->
-
-## Connect With Me 🍎
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaeyoungchang5@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaeyoungchang5/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jaeyoungchang5)
