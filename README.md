@@ -43,10 +43,10 @@ I am currently working at Epic Systems in Verona, Wisconsin. I graduated in 2022
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-
+<!--
 ## Activity ⚡️
 [![Jae's github stats](https://github-readme-stats.vercel.app/api?username=jaeyoungchang5&theme=vue&count_private=true&hide=issues,stars&show_icons=true)](https://github.com/jaeyoungchang5)
-
+-->
 ## Connect With Me 🍎
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaeyoungchang5@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaeyoungchang5/)
