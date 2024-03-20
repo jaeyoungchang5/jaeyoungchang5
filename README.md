@@ -52,5 +52,7 @@ My greatest passion is people, so let's connect and get to know one another! �
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 
 ## Activity ⚡️
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaeyoungchang5&&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&currStreakNum=DD2727)](https://git.io/streak-stats)
+
 [![Jae's github stats](https://github-readme-stats.vercel.app/api?username=jaeyoungchang5&theme=vue&count_private=true&hide=issues,contribs&show=prs_merged&show_icons=true)](https://github.com/jaeyoungchang5)
 <!-- Reference https://github.com/anuraghazra/github-readme-stats -->
