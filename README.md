@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # JaeYoung Chang
 I am a lifelong learner, driven software developer, and proud Korean.
-I am a full-stack engineer at Epic Systems, the nation's leader in Healthcare Software. I graduated from the University of Notre Dame in 2022 with a BS in Computer Science and a Minor in Engineering Corporate Practice. 
+Discover more about me on my [personal website](https://jaeyoungchang.vercel.app/)!
 
 My greatest passion is people, so let's connect and get to know one another! 🍎
 
