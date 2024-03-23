@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 -->
 # JaeYoung Chang
 I am a lifelong learner, driven software developer, and proud Korean.
-Discover more about me on my [personal website](https://jaeyoungchang.vercel.app/)!
+Discover more about me on my [personal website](https://jaeyoungchang.com/)!
 
 My greatest passion is people, so let's connect and get to know one another! 🍎
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaeyoungchang5@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaeyoungchang5/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaeyoungchang/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jaeyoungchang5)
 
 ---
